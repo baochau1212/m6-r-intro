@@ -23,3 +23,4 @@ too.expensive <- 2000>1000
 
 # Create a variable `max.puppies`, which is the number of puppies you can afford for $1K.
 max.puppies <- 1
+
